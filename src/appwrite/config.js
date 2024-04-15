@@ -132,6 +132,6 @@ export class Service{
     }
 }
 
-f  
+
 const service = new Service()
 export default service
